@@ -1,4 +1,5 @@
 name = 'My name is Alva'
+<<<<<<< HEAD
 print(name)
 
 
@@ -9,3 +10,6 @@ def greet(user_name):
 
 greet(input("Enter your name: "))
 
+=======
+print(name)
+>>>>>>> 544cb9b3e988ee6949a62bd5207431ffc3062d37
